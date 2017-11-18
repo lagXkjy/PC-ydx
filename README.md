@@ -1,6 +1,6 @@
-# 云短信(^_^)
+# 云短信
 
-# 说明
+# 说明(^_^)
 >  项目地址https://WuChenDi.github.io/PC-ydx/
 
 >  处理IE兼容等问题(ie7以上)
